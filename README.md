@@ -44,7 +44,7 @@ Beyond standard web development, I am deeply engaged in game automation using C#
 - I play Roblox and MOBA games to unwind and keep my competitive side active.
 - I enjoy figuring out how things work under the hood, from game mechanics to real-world systems.
 - I like UI/UX exploration and turning random ideas into small experiments.
-- Current learning track: clean architecture patterns for full-stack applications.
+- Current learning track: Next.js.. MongoDB.
 
 This side of me keeps me curious, which helps me stay sharp and intentional when building software.
 
